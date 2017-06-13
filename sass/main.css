@@ -2664,7 +2664,7 @@ button,
       color: #ffffff;
       text-align: center;
       text-decoration: none;
-      z-index: 3; }
+      z-index: 5; }
       .tiles article > a > :last-child {
         margin: 0; }
       .tiles article > a:hover {
