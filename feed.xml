@@ -252,70 +252,6 @@
   </entry>
   
   <entry>
-    <title>Skills</title>
-    <link href="http://LeeYoonSeok.github.io/2014/06/18/Skills/"/>
-    <id>http://LeeYoonSeok.github.io/2014/06/18/Skills/</id>
-    <published>2014-06-18T07:07:18.000Z</published>
-    <updated>2017-06-29T01:43:19.699Z</updated>
-    
-    <content type="html"><![CDATA[<!-- toc orderedList:0 depthFrom:1 depthTo:6 -->
-<ul>
-<li><a href="#presentation">#Presentation</a></li>
-<li><a href="#languages">#Languages</a></li>
-<li><a href="#design-thinking">#Design Thinking</a></li>
-<li><a href="#programming">#Programming</a></li>
-</ul>
-<!-- tocstop -->
-<p><div id="presentation"></div></p>
-<h1 id="Presentation"><a href="#Presentation" class="headerlink" title="#Presentation"></a>#Presentation</h1><p>남들 앞에서 내 이야기를 말하는 것을 두려워 하지 않음.<br><strong><em>편안하고, 유쾌한 발표 지향.</em></strong></p>
-<p><img src="/images_all/presentation.jpeg" alt="Drawing" style="width: 400px;" align="top"></p>
-
-<hr>
-<p><div id="languages"></div></p>
-<h1 id="Languages"><a href="#Languages" class="headerlink" title="#Languages"></a>#Languages</h1><ul>
-<li><b>영어(English)</b> - OPIc IH</li>
-<li><b>한문(漢文)</b> - 한국어문회, 한자진흥회 2급, 논어 1독</li>
-</ul>
-<hr>
-<p><div id="design-thinking"></div></p>
-<h1 id="Design-Thinking"><a href="#Design-Thinking" class="headerlink" title="#Design Thinking"></a>#Design Thinking</h1><p><img src="http://blog.deloitte.com.au/wp-content/uploads/sites/25/2015/08/DesignThinking2.png" alt="Drawing" style="width: 400px;" align="top"></p>
-
-<p>사용자가 무엇을 원하는지, 그들의 생활에 무엇이 필요한지, <br>또 그들이 어떤 점을 좋아하고 싫어하는지 등을 속속들이 듣고, 느끼고, 이해한 바를 원동력으로 삼아 행동함.</p>
-<ul>
-<li><i>배워보기</i> - <strong>‘한국인터넷전문가협회(Kipfa)’</strong> 에서 <a href="http://www.kipfa.or.kr/Education/EduCenter/EduCenterView.aspx?eduSeqNo=706" title="한국인터넷전문가협회" target="_blank" rel="external">스펙초월 멘토스쿨_모바일 UX </a> 수업 수강.</li>
-<li><i>들어주기</i> - 상대와 공감하는 데 필요.</li>
-<li><i>관찰하기</i> - 현재 상황의 문제점을 파악하는 데 필요.</li>
-<li><i>통합적 사고</i> - 문과와 이과의 복수전공을 통해 얻음.</li>
-<li><i>표현 도구</i> - Photoshop(下), illustrator(下), 파워포인트(上)</li>
-</ul>
-<hr>
-<p><div id="programming"></div></p>
-<h1 id="Programming"><a href="#Programming" class="headerlink" title="#Programming"></a>#Programming</h1><ul>
-<li><b><i>C언어, Java, jsp, Java Script, Markdown, css, html, MSSQL</i></b></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;!-- toc orderedList:0 depthFrom:1 depthTo:6 --&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#presentation&quot;&gt;#Presentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#languages&quot;&gt;#Languages
-    
-    </summary>
-    
-    
-      <category term="발표" scheme="http://LeeYoonSeok.github.io/tags/%EB%B0%9C%ED%91%9C/"/>
-    
-      <category term="장기" scheme="http://LeeYoonSeok.github.io/tags/%EC%9E%A5%EA%B8%B0/"/>
-    
-      <category term="굿리스너" scheme="http://LeeYoonSeok.github.io/tags/%EA%B5%BF%EB%A6%AC%EC%8A%A4%EB%84%88/"/>
-    
-      <category term="PROGRAMMING" scheme="http://LeeYoonSeok.github.io/tags/PROGRAMMING/"/>
-    
-  </entry>
-  
-  <entry>
     <title>삼성 드림클래스</title>
     <link href="http://LeeYoonSeok.github.io/2014/01/17/%EC%82%BC%EC%84%B1-%EB%93%9C%EB%A6%BC%ED%81%B4%EB%9E%98%EC%8A%A4/"/>
     <id>http://LeeYoonSeok.github.io/2014/01/17/삼성-드림클래스/</id>
@@ -402,11 +338,75 @@
   </entry>
   
   <entry>
+    <title>Skills</title>
+    <link href="http://LeeYoonSeok.github.io/2010/06/18/Skills/"/>
+    <id>http://LeeYoonSeok.github.io/2010/06/18/Skills/</id>
+    <published>2010-06-18T07:07:18.000Z</published>
+    <updated>2017-08-19T16:48:31.988Z</updated>
+    
+    <content type="html"><![CDATA[<!-- toc orderedList:0 depthFrom:1 depthTo:6 -->
+<ul>
+<li><a href="#presentation">#Presentation</a></li>
+<li><a href="#languages">#Languages</a></li>
+<li><a href="#design-thinking">#Design Thinking</a></li>
+<li><a href="#programming">#Programming</a></li>
+</ul>
+<!-- tocstop -->
+<p><div id="presentation"></div></p>
+<h1 id="Presentation"><a href="#Presentation" class="headerlink" title="#Presentation"></a>#Presentation</h1><p>남들 앞에서 내 이야기를 말하는 것을 두려워 하지 않음.<br><strong><em>편안하고, 유쾌한 발표 지향.</em></strong></p>
+<p><img src="/images_all/presentation.jpeg" alt="Drawing" style="width: 400px;" align="top"></p>
+
+<hr>
+<p><div id="languages"></div></p>
+<h1 id="Languages"><a href="#Languages" class="headerlink" title="#Languages"></a>#Languages</h1><ul>
+<li><b>영어(English)</b> - OPIc IH</li>
+<li><b>한문(漢文)</b> - 한국어문회, 한자진흥회 2급, 논어 1독</li>
+</ul>
+<hr>
+<p><div id="design-thinking"></div></p>
+<h1 id="Design-Thinking"><a href="#Design-Thinking" class="headerlink" title="#Design Thinking"></a>#Design Thinking</h1><p><img src="http://blog.deloitte.com.au/wp-content/uploads/sites/25/2015/08/DesignThinking2.png" alt="Drawing" style="width: 400px;" align="top"></p>
+
+<p>사용자가 무엇을 원하는지, 그들의 생활에 무엇이 필요한지, <br>또 그들이 어떤 점을 좋아하고 싫어하는지 등을 속속들이 듣고, 느끼고, 이해한 바를 원동력으로 삼아 행동함.</p>
+<ul>
+<li><i>배워보기</i> - <strong>‘한국인터넷전문가협회(Kipfa)’</strong> 에서 <a href="http://www.kipfa.or.kr/Education/EduCenter/EduCenterView.aspx?eduSeqNo=706" title="한국인터넷전문가협회" target="_blank" rel="external">스펙초월 멘토스쿨_모바일 UX </a> 수업 수강.</li>
+<li><i>들어주기</i> - 상대와 공감하는 데 필요.</li>
+<li><i>관찰하기</i> - 현재 상황의 문제점을 파악하는 데 필요.</li>
+<li><i>통합적 사고</i> - 문과와 이과의 복수전공을 통해 얻음.</li>
+<li><i>표현 도구</i> - Photoshop(下), illustrator(下), 파워포인트(上)</li>
+</ul>
+<hr>
+<p><div id="programming"></div></p>
+<h1 id="Programming"><a href="#Programming" class="headerlink" title="#Programming"></a>#Programming</h1><ul>
+<li><b><i>C언어, Java, jsp, Java Script, Markdown, css, html, MSSQL</i></b></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;!-- toc orderedList:0 depthFrom:1 depthTo:6 --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#presentation&quot;&gt;#Presentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#languages&quot;&gt;#Languages
+    
+    </summary>
+    
+    
+      <category term="발표" scheme="http://LeeYoonSeok.github.io/tags/%EB%B0%9C%ED%91%9C/"/>
+    
+      <category term="장기" scheme="http://LeeYoonSeok.github.io/tags/%EC%9E%A5%EA%B8%B0/"/>
+    
+      <category term="굿리스너" scheme="http://LeeYoonSeok.github.io/tags/%EA%B5%BF%EB%A6%AC%EC%8A%A4%EB%84%88/"/>
+    
+      <category term="PROGRAMMING" scheme="http://LeeYoonSeok.github.io/tags/PROGRAMMING/"/>
+    
+  </entry>
+  
+  <entry>
     <title>FAVORITES</title>
     <link href="http://LeeYoonSeok.github.io/2010/06/18/FAVORITES/"/>
     <id>http://LeeYoonSeok.github.io/2010/06/18/FAVORITES/</id>
     <published>2010-06-18T03:31:34.000Z</published>
-    <updated>2017-07-12T01:50:31.756Z</updated>
+    <updated>2017-08-19T16:48:42.948Z</updated>
     
     <content type="html"><![CDATA[<!-- toc orderedList:0 depthFrom:1 depthTo:6 -->
 <ul>
@@ -441,7 +441,7 @@
 
 <hr>
 <p><div id="lionel-messi"></div></p>
-<h1 id="LIONEL-MESSI"><a href="#LIONEL-MESSI" class="headerlink" title="#LIONEL MESSI"></a>#LIONEL MESSI</h1><p>축구는 <strong>Mancheste Utd.</strong> 와 <strong>FC Barcelona</strong> 를 좋아하는데,<br>가장 좋아하는 선수는 <strong>Messi</strong>.</p>
+<h1 id="LIONEL-MESSI"><a href="#LIONEL-MESSI" class="headerlink" title="#LIONEL MESSI"></a>#LIONEL MESSI</h1><p>축구는 <strong>Manchester Utd.</strong> 와 <strong>FC Barcelona</strong> 를 좋아하는데,<br>가장 좋아하는 선수는 <strong>Messi</strong>.</p>
 <p><img src="http://d3i3l3kraiqpym.cloudfront.net/wp-content/uploads/2016/04/04110724/messi-panama-papers.jpg" alt="Drawing" style="width: 480px;" align="top"></p>
 
 <hr>

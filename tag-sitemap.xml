@@ -72,34 +72,6 @@
     </url>
 
     <url>
-        <loc>http://LeeYoonSeok.github.io/tags/%EB%B0%9C%ED%91%9C/</loc>
-        <lastmod>2017-06-29T01:43:19.699Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://LeeYoonSeok.github.io/tags/%EC%9E%A5%EA%B8%B0/</loc>
-        <lastmod>2017-06-29T01:43:19.699Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://LeeYoonSeok.github.io/tags/%EA%B5%BF%EB%A6%AC%EC%8A%A4%EB%84%88/</loc>
-        <lastmod>2017-06-29T01:43:19.699Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://LeeYoonSeok.github.io/tags/PROGRAMMING/</loc>
-        <lastmod>2017-06-29T01:43:19.699Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://LeeYoonSeok.github.io/tags/%EA%B5%90%EC%9C%A1%ED%99%9C%EB%8F%99/</loc>
         <lastmod>2017-08-19T16:02:31.397Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -151,6 +123,34 @@
     <url>
         <loc>http://LeeYoonSeok.github.io/tags/UI/</loc>
         <lastmod>2017-08-19T16:46:17.844Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://LeeYoonSeok.github.io/tags/%EB%B0%9C%ED%91%9C/</loc>
+        <lastmod>2017-08-19T16:48:31.988Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://LeeYoonSeok.github.io/tags/%EC%9E%A5%EA%B8%B0/</loc>
+        <lastmod>2017-08-19T16:48:31.988Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://LeeYoonSeok.github.io/tags/%EA%B5%BF%EB%A6%AC%EC%8A%A4%EB%84%88/</loc>
+        <lastmod>2017-08-19T16:48:31.988Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://LeeYoonSeok.github.io/tags/PROGRAMMING/</loc>
+        <lastmod>2017-08-19T16:48:31.988Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
