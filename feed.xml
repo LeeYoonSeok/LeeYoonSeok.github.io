@@ -5,7 +5,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="http://LeeYoonSeok.github.io/"/>
-  <updated>2017-06-18T11:11:35.834Z</updated>
+  <updated>2017-08-19T15:41:50.635Z</updated>
   <id>http://LeeYoonSeok.github.io/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>StarRoad</title>
+    <link href="http://LeeYoonSeok.github.io/2017/08/20/%EC%9C%84%EC%B9%98%EA%B8%B0%EB%B0%98%EC%84%9C%EB%B9%84%EC%8A%A4_StarRoad/"/>
+    <id>http://LeeYoonSeok.github.io/2017/08/20/위치기반서비스_StarRoad/</id>
+    <published>2017-08-20T03:32:12.000Z</published>
+    <updated>2017-08-19T15:41:50.635Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="모바일앱" scheme="http://LeeYoonSeok.github.io/tags/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%95%B1/"/>
+    
+      <category term="디자인" scheme="http://LeeYoonSeok.github.io/tags/%EB%94%94%EC%9E%90%EC%9D%B8/"/>
+    
+      <category term="ux" scheme="http://LeeYoonSeok.github.io/tags/ux/"/>
+    
+      <category term="ui" scheme="http://LeeYoonSeok.github.io/tags/ui/"/>
+    
+  </entry>
   
   <entry>
     <title>Android 앱&lt;br/&gt;구글플레이 등록&lt;/br&gt; - &lt;i&gt;질투의화신&lt;/i&gt;</title>
@@ -452,24 +474,6 @@
     <title>GALLERY</title>
     <link href="http://LeeYoonSeok.github.io/1990/09/28/GALLERY/"/>
     <id>http://LeeYoonSeok.github.io/1990/09/28/GALLERY/</id>
-    <published>1990-09-28T11:02:12.000Z</published>
-    <updated>2017-06-18T03:28:29.063Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-      <category term="PHOTO" scheme="http://LeeYoonSeok.github.io/tags/PHOTO/"/>
-    
-      <category term="디자인" scheme="http://LeeYoonSeok.github.io/tags/%EB%94%94%EC%9E%90%EC%9D%B8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>GALLERY</title>
-    <link href="http://LeeYoonSeok.github.io/1990/09/28/%EC%9C%84%EC%B9%98%EA%B8%B0%EB%B0%98%EC%84%9C%EB%B9%84%EC%8A%A4_StarRoad/"/>
-    <id>http://LeeYoonSeok.github.io/1990/09/28/위치기반서비스_StarRoad/</id>
     <published>1990-09-28T11:02:12.000Z</published>
     <updated>2017-06-18T03:28:29.063Z</updated>
     

@@ -7,6 +7,56 @@
     </url>
 
     <url>
+        <loc>http://LeeYoonSeok.github.io/2017/08/20/%EC%9C%84%EC%B9%98%EA%B8%B0%EB%B0%98%EC%84%9C%EB%B9%84%EC%8A%A4_StarRoad/</loc>
+        <lastmod>2017-08-19T15:41:50.635Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+        <image:image>
+
+            <image:loc>http://LeeYoonSeok.github.io/images_all/starroad_main.png</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>http://LeeYoonSeok.github.io/images_all/starroad_dd.png</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>http://LeeYoonSeok.github.io/images_all/starroad_menu.png</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>http://LeeYoonSeok.github.io/images_all/starroad_chat.png</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>http://LeeYoonSeok.github.io/images_all/starroad_menudd.png</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>http://LeeYoonSeok.github.io/images_all/starroad_landmarkdd.png</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>http://LeeYoonSeok.github.io/images_all/starroad_ddrgstr.png</image:loc>
+
+        </image:image>
+
+    </url>
+
+    <url>
         <loc>http://LeeYoonSeok.github.io/2010/06/18/FAVORITES/</loc>
         <lastmod>2017-07-12T01:50:31.756Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -48,74 +98,6 @@
 
     <url>
         <loc>http://LeeYoonSeok.github.io/1990/09/28/GALLERY/</loc>
-        <lastmod>2017-06-18T03:28:29.063Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-        <image:image>
-
-            <image:loc>http://LeeYoonSeok.github.io/images_all/protoMain.png</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>http://LeeYoonSeok.github.io/images_all/%EC%A7%88%ED%88%AC%EC%9D%98%ED%99%94%EC%8B%A0.png</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>http://LeeYoonSeok.github.io/images_all/2015.png</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>http://LeeYoonSeok.github.io/images_all/201505.jpeg</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>http://LeeYoonSeok.github.io/images_all/fly.png</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>http://LeeYoonSeok.github.io/images_all/3%20Screens.png</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>http://LeeYoonSeok.github.io/images_all/proto.png</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>http://LeeYoonSeok.github.io/images_all/proto2.png</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>http://LeeYoonSeok.github.io/images_all/dd2.png</image:loc>
-
-        </image:image>
-
-        <image:image>
-
-            <image:loc>http://LeeYoonSeok.github.io/images_all/jm.png</image:loc>
-
-        </image:image>
-
-    </url>
-
-    <url>
-        <loc>http://LeeYoonSeok.github.io/1990/09/28/%EC%9C%84%EC%B9%98%EA%B8%B0%EB%B0%98%EC%84%9C%EB%B9%84%EC%8A%A4_StarRoad/</loc>
         <lastmod>2017-06-18T03:28:29.063Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
