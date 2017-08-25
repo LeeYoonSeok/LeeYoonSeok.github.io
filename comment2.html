@@ -53,6 +53,7 @@
         var code = list.map(function(data, i) {
           return "<tr><td>" + (i + 1) + "</td><td><a href=\"https://facebook.com/" + data.from.id + "\" target=\"_blank\">" + data.from.name + "</a></td><td>" + data.message + "</td></tr>";
         });
+        document.getElementById('result').innerHTML = '<span class="em3">' + list.length + '</span>개의 댓글을 수집했습니다.';
         document.getElementById('result').innerHTML = '<table><tbody>' + code.join('') + '</tbody></table>';
         return;
       }
@@ -67,7 +68,7 @@
               })
               if (!isExist) {
                 list.push(comment);
-                document.getElementById('result').innerHTML = '<span class="em3">' + list.length + '</span>개의 댓글을 수집했습니다.';
+                document.getElementById('result').innerHTML = '<span class="em3">' + list.length + '</span>개의 댓글을 수집 중 입니다.';
               }
             }
             // getComments(undefined);
@@ -163,7 +164,7 @@
     <span class="fb-login-button" data-max-rows="1" data-size="large" data-button-type="continue_with" data-show-faces="false" data-auto-logout-link="true" data-use-continue-as="true"></span>
   </p>
 
-  <h2>댓글의 주소 예시</h2>
+  <h2>댓글 주소 예시</h2>
     <table>
       <tr>
         <td id="table-type">구분</td>
