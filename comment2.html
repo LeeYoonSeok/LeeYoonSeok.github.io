@@ -53,7 +53,7 @@
         var code = list.map(function(data, i) {
           return "<tr><td>" + (i + 1) + "</td><td><a href=\"https://facebook.com/" + data.from.id + "\" target=\"_blank\">" + data.from.name + "</a></td><td>" + data.message + "</td></tr>";
         });
-        document.getElementById('result2').innerHTML ='총'+ '<span class="em3">' + list.length + '</span>개의 댓글을 수집했습니다.';
+        document.getElementById('result2').innerHTML ='총 '+&nbsp;+ ' <span class="em3">' + list.length + '</span>개의 댓글을 수집했습니다.';
         document.getElementById('result').innerHTML = '<table><tbody>' + code.join('') + '</tbody></table>';
         return;
       }
