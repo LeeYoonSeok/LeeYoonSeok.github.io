@@ -1,0 +1,89 @@
+<!doctype html>
+<html>
+  <head>
+    <script>
+
+      window.fbAsyncInit = function() {
+          FB.init({
+            appId      : '287506995060853',
+            cookie     : true,
+            xfbml      : true,
+            version    : 'v2.8'
+          });
+          FB.AppEvents.logPageView();
+          FB.getLoginStatus(function(response) {
+            if(response.status === 'connected'){
+              console.log('logined');
+
+              FB.api('/me', {fields: 'last_name,first_name'}, function(response) {
+                document.querySelector('#name').innerHTML = ', '+response.last_name+' '+response.first_name;
+                console.log(response);
+              });
+
+            } else {
+               console.log('not logined');
+            }
+          });
+        };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
+
+
+       function start(){
+        var src = document.querySelector('#src').value;
+        list = []
+        function shuffle(a) {
+            var j, x, i;
+            for (i = a.length; i; i--) {
+                j = Math.floor(Math.random() * i);
+                x = a[i - 1];
+                a[i - 1] = a[j];
+                a[j] = x;
+            }
+        }
+        function getData(next){
+            FB.api(next, {limit:10}, function(response) {
+                for(var i=0; i<response.data.length; i++){
+                    list.push(response.data[i]);
+                }
+                console.log(response);
+                if(response.paging.next !== undefined){
+                    getData(response.paging.next);
+                } else {
+                        shuffle(list);
+                        console.log('끗', list);
+                        var code = '';
+                        for(var i=0; i<list.length; i++){
+                          code += '<tr><td>'+list[i].from.name+'</td><td>'+list[i].message+'</td></tr>';
+                        }
+                        document.querySelector('#result').innerHTML = '<table>'+code+'</table>';
+                }
+            });
+        }
+        getData(src);
+      }
+    </script>
+  </head>
+  <body>
+    hi<span id="name"></span>
+
+    <fb:login-button
+      scope="public_profile,email">
+    </fb:login-button>
+
+    <p>
+      <input type="text" id="src">
+    </p>
+    <p>
+      <input type="button" id="start" value="start" onclick="start();">
+    </p>
+    <div id="result"></div>
+
+  </body>
+</html>
