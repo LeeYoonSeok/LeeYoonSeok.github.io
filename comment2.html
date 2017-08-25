@@ -65,7 +65,7 @@
               var isExist = list.find(function(data) {
                 return data.from.id === comment.from.id
               })
-              if (isExist) {
+              if (!isExist) {
                 list.push(comment);
                 document.getElementById('result').innerHTML = '<span class="em3">' + list.length + '</span>개의 댓글을 수집했습니다.';
               }
