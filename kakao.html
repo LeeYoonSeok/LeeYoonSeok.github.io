@@ -13,18 +13,18 @@
       <p><em>지도를 클릭해주세요!</em></p>
       <p id="result"></p>
   	<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=716d515c15fbcec90dcf10212e9054bf"></script>
-  	<script>
-  		var container = document.getElementById('map');
-  		var options = {
-  			center: new daum.maps.LatLng(37.49763, 127.07071),
-  			level: 3
-  		};
+    <script>
+var mapContainer = document.getElementById('map'), // 지도를 표시할 div
+    mapOption = {
+        center: new daum.maps.LatLng(37.49763, 127.070717), // 지도의 중심좌표
+        level: 3 // 지도의 확대 레벨
+    };
 
-  		var map = new daum.maps.Map(container, options);
+var map = new daum.maps.Map(mapContainer, mapOption); // 지도를 생성합니다
 
-      // 지도에 클릭 이벤트를 등록합니다
-      // 지도를 클릭하면 마지막 파라미터로 넘어온 함수를 호출합니다
-    daum.maps.event.addListener(map, 'click', function(mouseEvent) {
+// 지도에 클릭 이벤트를 등록합니다
+// 지도를 클릭하면 마지막 파라미터로 넘어온 함수를 호출합니다
+daum.maps.event.addListener(map, 'click', function(mouseEvent) {
 
     // 클릭한 위도, 경도 정보를 가져옵니다
     var latlng = mouseEvent.latLng;
@@ -34,7 +34,9 @@
 
     var resultDiv = document.getElementById('result');
     resultDiv.innerHTML = message;
-  	</script>
+
+});
+</script>
   </br></br>
 
     <a id="kakao-login-btn"></a>
