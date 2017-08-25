@@ -48,7 +48,7 @@
             }
         }
         function getData(next){
-            FB.api(next, {limit:10}, function(response) {
+            FB.api(next, {limit:10000}, function(response) {
                 for(var i=0; i<response.data.length; i++){
                     list.push(response.data[i]);
                 }
