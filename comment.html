@@ -52,7 +52,7 @@
         }
         function getData(next){
             FB.api(next, {limit:10000}, function(response) {
-                alert(response.length);
+                alert(response.data.length);
                 for(var i=0; i<response.data.length; i++){
                     list.push(response.data[i]);
                 }
