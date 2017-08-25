@@ -5,7 +5,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="http://LeeYoonSeok.github.io/"/>
-  <updated>2017-08-25T05:48:11.041Z</updated>
+  <updated>2017-08-25T06:21:33.422Z</updated>
   <id>http://LeeYoonSeok.github.io/</id>
   
   <author>
@@ -16,19 +16,19 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Facebook 댓글 수집 및 추첨</title>
+    <title>Facebook 페이지/그룹 댓글 수집 및 추첨</title>
     <link href="http://LeeYoonSeok.github.io/2017/08/25/facebook-comment/"/>
     <id>http://LeeYoonSeok.github.io/2017/08/25/facebook-comment/</id>
     <published>2017-08-25T05:42:11.000Z</published>
-    <updated>2017-08-25T05:48:11.041Z</updated>
+    <updated>2017-08-25T06:21:33.422Z</updated>
     
-    <content type="html"><![CDATA[<iframe width="100%" src="https://leeyoonseok.github.io/comment2.html" frameborder="0" allowfullscreen></iframe>
+    <content type="html"><![CDATA[<p><a href="https://leeyoonseok.github.io/comment2.html">Facebook 댓글 수집 및 추첨</a> 앱을 만들어보았다. 해당하는 Facebook 게시물의 댓글에 있는 이름과 댓글 내용을 가져올 수 있다.</p>
+<p><strong><em>URL</em></strong> - <strong><a href="https://leeyoonseok.github.io/comment2.html">https://leeyoonseok.github.io/comment2.html</a></strong></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;iframe width=&quot;100%&quot; src=&quot;https://leeyoonseok.github.io/comment2.html&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-
+      &lt;p&gt;&lt;a href=&quot;https://leeyoonseok.github.io/comment2.html&quot;&gt;Facebook 댓글 수집 및 추첨&lt;/a&gt; 앱을 만들어보았다. 해당하는 Facebook 게시물의 댓글에 있는 이름과 댓글 내용을 가져올 수 있다.&lt;/
     
     </summary>
     
