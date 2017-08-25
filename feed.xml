@@ -5,7 +5,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="http://LeeYoonSeok.github.io/"/>
-  <updated>2017-08-25T06:21:33.422Z</updated>
+  <updated>2017-06-18T11:11:35.834Z</updated>
   <id>http://LeeYoonSeok.github.io/</id>
   
   <author>
@@ -14,30 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Facebook 페이지/그룹 댓글 수집 및 추첨</title>
-    <link href="http://LeeYoonSeok.github.io/2017/08/25/facebook-comment/"/>
-    <id>http://LeeYoonSeok.github.io/2017/08/25/facebook-comment/</id>
-    <published>2017-08-25T05:42:11.000Z</published>
-    <updated>2017-08-25T06:21:33.422Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="https://leeyoonseok.github.io/comment2.html">Facebook 댓글 수집 및 추첨</a> 앱을 만들어보았다. 해당하는 Facebook 게시물의 댓글에 있는 이름과 댓글 내용을 가져올 수 있다.</p>
-<p><strong><em>URL</em></strong> - <strong><a href="https://leeyoonseok.github.io/comment2.html">https://leeyoonseok.github.io/comment2.html</a></strong></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;https://leeyoonseok.github.io/comment2.html&quot;&gt;Facebook 댓글 수집 및 추첨&lt;/a&gt; 앱을 만들어보았다. 해당하는 Facebook 게시물의 댓글에 있는 이름과 댓글 내용을 가져올 수 있다.&lt;/
-    
-    </summary>
-    
-    
-      <category term="기획" scheme="http://LeeYoonSeok.github.io/tags/%EA%B8%B0%ED%9A%8D/"/>
-    
-      <category term="프로그래밍" scheme="http://LeeYoonSeok.github.io/tags/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/"/>
-    
-  </entry>
   
   <entry>
     <title>Android 앱&lt;br/&gt;구글플레이 등록&lt;/br&gt; - &lt;i&gt;질투의화신&lt;/i&gt;</title>
@@ -252,6 +228,30 @@
   </entry>
   
   <entry>
+    <title>Facebook 페이지/그룹 댓글 수집 및 추첨</title>
+    <link href="http://LeeYoonSeok.github.io/2015/04/25/facebook-comment/"/>
+    <id>http://LeeYoonSeok.github.io/2015/04/25/facebook-comment/</id>
+    <published>2015-04-25T05:42:11.000Z</published>
+    <updated>2017-08-25T06:51:56.051Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://leeyoonseok.github.io/comment2.html">Facebook 댓글 수집 및 추첨</a> 앱을 만들어보았다. 해당하는 Facebook 게시물의 댓글에 있는 이름과 댓글 내용을 가져올 수 있다.</p>
+<p><strong><em>URL</em></strong> - <strong><a href="https://leeyoonseok.github.io/comment2.html">https://leeyoonseok.github.io/comment2.html</a></strong></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;https://leeyoonseok.github.io/comment2.html&quot;&gt;Facebook 댓글 수집 및 추첨&lt;/a&gt; 앱을 만들어보았다. 해당하는 Facebook 게시물의 댓글에 있는 이름과 댓글 내용을 가져올 수 있다.&lt;/
+    
+    </summary>
+    
+    
+      <category term="기획" scheme="http://LeeYoonSeok.github.io/tags/%EA%B8%B0%ED%9A%8D/"/>
+    
+      <category term="프로그래밍" scheme="http://LeeYoonSeok.github.io/tags/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/"/>
+    
+  </entry>
+  
+  <entry>
     <title>StarRoad</title>
     <link href="http://LeeYoonSeok.github.io/2015/04/20/starroad/"/>
     <id>http://LeeYoonSeok.github.io/2015/04/20/starroad/</id>
@@ -425,10 +425,10 @@
   
   <entry>
     <title>FAVORITES</title>
-    <link href="http://LeeYoonSeok.github.io/2010/06/18/FAVORITES/"/>
-    <id>http://LeeYoonSeok.github.io/2010/06/18/FAVORITES/</id>
-    <published>2010-06-18T03:31:34.000Z</published>
-    <updated>2017-08-19T16:48:42.948Z</updated>
+    <link href="http://LeeYoonSeok.github.io/2010/06/17/FAVORITES/"/>
+    <id>http://LeeYoonSeok.github.io/2010/06/17/FAVORITES/</id>
+    <published>2010-06-17T03:31:34.000Z</published>
+    <updated>2017-08-25T06:50:54.398Z</updated>
     
     <content type="html"><![CDATA[<!-- toc orderedList:0 depthFrom:1 depthTo:6 -->
 <ul>
