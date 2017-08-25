@@ -9,6 +9,19 @@
 
     </head>
     <body>
+      <div id="map" style="width:500px;height:400px;"></div>
+  	<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=716d515c15fbcec90dcf10212e9054bf"></script>
+  	<script>
+  		var container = document.getElementById('map');
+  		var options = {
+  			center: new daum.maps.LatLng(33.450701, 126.570667),
+  			level: 3
+  		};
+
+  		var map = new daum.maps.Map(container, options);
+  	</script>
+
+
     <a id="kakao-login-btn"></a>
     <a href="http://developers.kakao.com/logout"></a>
     <script type='text/javascript'>
