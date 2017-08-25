@@ -14,7 +14,7 @@
           FB.getLoginStatus(function(response) {
             if(response.status === 'connected'){
               console.log('logined');
-
+              window.location.reload();
               FB.api('/me', {fields: 'last_name,first_name'}, function(response) {
                 document.querySelector('#name').innerHTML = ', '+response.last_name+' '+response.first_name;
                 console.log(response);
