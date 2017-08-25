@@ -18,13 +18,15 @@
               FB.api('/me', {fields: 'last_name,first_name'}, function(response) {
                 document.querySelector('#name').innerHTML = ', '+response.last_name+' '+response.first_name;
                 console.log(response);
-              window.location.reload();
+
               });
 
             } else {
                console.log('not logined');
             }
-          });
+          }
+              window.location.reload();
+        );
         };
 
       (function(d, s, id){
